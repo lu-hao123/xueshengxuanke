@@ -34,7 +34,7 @@
 ![image](https://github.com/Li-dashen/xueshengxuanke/blob/master/GUI%E7%95%8C%E9%9D%A2%E6%A1%86%E6%9E%B6.png)
 
          录入课表
-  ![image](https://github.com/Li-dashen/xueshengxuanke/blob/master/GUI%E7%95%8C%E9%9D%A2%E6%A1%86%E6%9E%B6.png)
+  ![image](https://github.com/Li-dashen/xueshengxuanke/blob/master/%E5%BD%95%E5%85%A5%E8%AF%BE%E8%A1%A8.png)
   
          打开文件
   ![image](https://github.com/Li-dashen/xueshengxuanke/blob/master/GUI%E7%95%8C%E9%9D%A2%E6%A1%86%E6%9E%B6.png)
