@@ -41,7 +41,7 @@
 四、实验结果
        
          选择用户
-  ![image](https://github.com/Li-dashen/xueshengxuanke/blob/master/%E6%89%93%E5%BC%80%E6%96%87%E4%BB%B6.png)
+  ![image](https://github.com/Li-dashen/xueshengxuanke/blob/master/%E9%80%89%E6%8B%A9%E7%94%A8%E6%88%B7.png)
          
          老师界面
    ![image](https://github.com/Li-dashen/xueshengxuanke/blob/master/%E6%89%93%E5%BC%80%E6%96%87%E4%BB%B6.png)
