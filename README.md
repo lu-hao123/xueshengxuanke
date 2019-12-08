@@ -25,6 +25,7 @@
  ![image](https://github.com/Li-dashen/xueshengxuanke/blob/master/%E6%9C%AA%E5%91%BD%E5%90%8D%E6%96%87%E4%BB%B6.png)
 
     3、核心代码
+        因为代码重复的过多，仅展示部分代码。
     
 
 四、实验结果
