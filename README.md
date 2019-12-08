@@ -47,7 +47,7 @@
    ![image](https://github.com/Li-dashen/xueshengxuanke/blob/master/%E8%80%81%E5%B8%88%E7%95%8C%E9%9D%A2.png)
   
          注册界面
-  ![image](https://github.com/Li-dashen/xueshengxuanke/blob/master/%E6%89%93%E5%BC%80%E6%96%87%E4%BB%B6.png)
+  ![image](https://github.com/Li-dashen/xueshengxuanke/blob/master/%E6%B3%A8%E5%86%8C%E7%95%8C%E9%9D%A2.png)
          
          学生选课操作
   ![image](https://github.com/Li-dashen/xueshengxuanke/blob/master/%E6%89%93%E5%BC%80%E6%96%87%E4%BB%B6.png)        
