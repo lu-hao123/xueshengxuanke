@@ -28,7 +28,10 @@
         因为代码重复的过多，仅展示部分代码。
        
        GUI界面框架事例
-![image](https://github.com/Li-dashen/xueshengxuanke/blob/master/%E6%9C%AA%E5%91%BD%E5%90%8D%E6%96%87%E4%BB%B6.png)
+![image](https://github.com/Li-dashen/xueshengxuanke/blob/master/GUI%E7%95%8C%E9%9D%A2%E6%A1%86%E6%9E%B6.png)
+  
+        录入学生信息
+![image](https://github.com/Li-dashen/xueshengxuanke/blob/master/GUI%E7%95%8C%E9%9D%A2%E6%A1%86%E6%9E%B6.png)
 四、实验结果
 
 
