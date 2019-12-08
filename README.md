@@ -39,6 +39,19 @@
          打开文件
   ![image](https://github.com/Li-dashen/xueshengxuanke/blob/master/%E6%89%93%E5%BC%80%E6%96%87%E4%BB%B6.png)
 四、实验结果
-
-
+       
+         选择用户
+  ![image](https://github.com/Li-dashen/xueshengxuanke/blob/master/%E6%89%93%E5%BC%80%E6%96%87%E4%BB%B6.png)
+         
+         老师界面
+   ![image](https://github.com/Li-dashen/xueshengxuanke/blob/master/%E6%89%93%E5%BC%80%E6%96%87%E4%BB%B6.png)
+  
+         注册界面
+  ![image](https://github.com/Li-dashen/xueshengxuanke/blob/master/%E6%89%93%E5%BC%80%E6%96%87%E4%BB%B6.png)
+         
+         学生选课操作
+  ![image](https://github.com/Li-dashen/xueshengxuanke/blob/master/%E6%89%93%E5%BC%80%E6%96%87%E4%BB%B6.png)        
+         
+         点击输出课表
+ ![image](https://github.com/Li-dashen/xueshengxuanke/blob/master/%E6%89%93%E5%BC%80%E6%96%87%E4%BB%B6.png)
 五、实验感想
