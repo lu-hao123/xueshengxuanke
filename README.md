@@ -37,7 +37,7 @@
   ![image](https://github.com/Li-dashen/xueshengxuanke/blob/master/%E5%BD%95%E5%85%A5%E8%AF%BE%E8%A1%A8.png)
   
          打开文件
-  ![image](https://github.com/Li-dashen/xueshengxuanke/blob/master/GUI%E7%95%8C%E9%9D%A2%E6%A1%86%E6%9E%B6.png)
+  ![image](https://github.com/Li-dashen/xueshengxuanke/blob/master/%E6%89%93%E5%BC%80%E6%96%87%E4%BB%B6.png)
 四、实验结果
 
 
