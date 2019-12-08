@@ -53,5 +53,5 @@
   ![image](https://github.com/Li-dashen/xueshengxuanke/blob/master/%E5%AD%A6%E7%94%9F%E9%80%89%E8%AF%BE%E6%93%8D%E4%BD%9C.png)        
          
          点击输出课表
- ![image](https://github.com/Li-dashen/xueshengxuanke/blob/master/%E6%89%93%E5%BC%80%E6%96%87%E4%BB%B6.png)
+ ![image]https://github.com/Li-dashen/xueshengxuanke/blob/master/%E7%82%B9%E5%87%BB%E8%BE%93%E5%87%BA%E8%AF%BE%E8%A1%A8.png)
 五、实验感想
