@@ -21,7 +21,7 @@
     将界面通过监听事件相连接。然后在需要文本写入与文本读出的地方的界面写上文本操作。而打印课表则是通过将文件打开，显示出学生基本信息、所选课程来实现
     的。
     2、流程图
-    ![image](https://github.com/Li-dashen/xueshengxuanke/blob/master/%E6%9C%AA%E5%91%BD%E5%90%8D%E6%96%87%E4%BB%B6.png)
+       ![image](https://github.com/Li-dashen/xueshengxuanke/blob/master/未命名文件.png)
 
     3、核心代码
 
