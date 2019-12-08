@@ -32,6 +32,12 @@
   
         录入学生信息
 ![image](https://github.com/Li-dashen/xueshengxuanke/blob/master/GUI%E7%95%8C%E9%9D%A2%E6%A1%86%E6%9E%B6.png)
+
+         录入课表
+  ![image](https://github.com/Li-dashen/xueshengxuanke/blob/master/GUI%E7%95%8C%E9%9D%A2%E6%A1%86%E6%9E%B6.png)
+  
+         打开文件
+  ![image](https://github.com/Li-dashen/xueshengxuanke/blob/master/GUI%E7%95%8C%E9%9D%A2%E6%A1%86%E6%9E%B6.png)
 四、实验结果
 
 
